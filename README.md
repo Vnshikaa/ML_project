@@ -8,32 +8,32 @@ The goal is to understand the relationship between the size of a house and its m
 
 🎯 Objective:
 
-Analyze the relationship between house size (square feet) and price
+1.Analyze the relationship between house size (square feet) and price
 
-Build a Linear Regression model to predict house prices
+2.Build a Linear Regression model to predict house prices
 
-Visualize the data and regression line
+3.Visualize the data and regression line
 
-Evaluate the model performance using Mean Squared Error (MSE)
+4.Evaluate the model performance using Mean Squared Error (MSE)
 
 📊 Dataset:
 
 The dataset contains housing information including:
 
-sqft_living – Area of the house in square feet
+1.sqft_living – Area of the house in square feet
 
-price – Price of the house
+2.price – Price of the house
 
 These features are used to train and test the machine learning model.
 
 🛠 Technologies Used:
 
-Python
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-Google Colab
+1.Python
+2.NumPy
+3.Pandas
+4.Matplotlib
+5.Scikit-learn
+7.Google Colab
 
 ⚙️ Model Used:
 
@@ -60,36 +60,36 @@ MSE ≈ 9.9e10
 
 📌 Project Workflow:
 
-Import libraries
+1.Import libraries
 
-Load dataset
+2.Load dataset
 
-Select features (sqft_living)
+3.Select features (sqft_living)
 
-Split data into training and testing sets
+4.Split data into training and testing sets
 
-Train Linear Regression model
+5.Train Linear Regression model
 
-Predict house prices
+6.Predict house prices
 
-Visualize regression line
+7.Visualize regression line
 
-Evaluate model using MSE
+8.Evaluate model using MSE
 
 📷 Output:
 
 The model generates a scatter plot showing:
 
-Actual house prices
+1.Actual house prices
 
-Predicted regression line
+2.Predicted regression line
 
 This demonstrates how house prices change with increasing living area.
 
 🚀 Future Improvements:
 
-Use multiple features such as bedrooms, bathrooms, and location
+1.Use multiple features such as bedrooms, bathrooms, and location
 
-Try advanced models like Random Forest or Gradient Boosting 
+2.Try advanced models like Random Forest or Gradient Boosting 
 
-Improve prediction accuracy with feature engineering
+3.Improve prediction accuracy with feature engineering
